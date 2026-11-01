@@ -1,0 +1,6 @@
+{
+  "name": "Jabale Noor ERP",
+  "description": "Institutional ERP & Management System for Jabal-e-Noor Girls Madrasah, Ramgarh, Khagrachhari, Bangladesh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
